@@ -5,6 +5,18 @@
 ## 📌 Project Overview
 This project focuses on analyzing sales data for West Cal Publishing(fictional entity) using Microsoft Excel. The dataset contains sales records from different regions, and the objective is to clean, structure, and visualize the data effectively for senior management. The project is an honors assignment for the Microsoft Excel course.
 
+
+## 📑 Table of Contents  
+1. [Project Overview](#project-overview)  
+2. [Data Source](#data-source)  
+3. [Tools](#tools)  
+4. [Data Cleaning & Preparation](#data-cleaning--preparation)  
+5. [Exploratory Data Analysis](#exploratory-data-analysis)  
+6. [Data Analysis & Visualization](#data-analysis--visualization)  
+7. [Results & Findings](#results--findings)  
+8. [Recommendations](#recommendations)  
+
+
 ## 📂 Data Source
 - **Sample File - Original.xlsx**: Contains the raw sales data.
 - **New Staff.csv**: Includes details of new employees to be integrated into the dataset.
@@ -27,6 +39,7 @@ This project focuses on analyzing sales data for West Cal Publishing(fictional e
 ## 📊 Exploratory Data Analysis
 - Applied Conditional Formatting on each area sheet to highlight top 5 sales values in each region.
 - Made the the name of the sales people in each region sheet as headings and calculated their total sales
+ ---
   ![image](https://github.com/user-attachments/assets/35b3db0c-1bc1-4c88-b05d-dfde4240e359)
 
   ![image](https://github.com/user-attachments/assets/db16f03b-a460-482b-9b3a-2cf169939782)
@@ -35,7 +48,8 @@ This project focuses on analyzing sales data for West Cal Publishing(fictional e
 
   ![image](https://github.com/user-attachments/assets/6bb910b0-5b09-4db0-a734-6998d5739d1c)
 
-
+  ---
+  
 
 
   
@@ -84,19 +98,19 @@ This project focuses on analyzing sales data for West Cal Publishing(fictional e
 
    
 ## 🔬 Results & Findings
-- The sales performance varied significantly across regions.
-- Conditional formatting made it easy to spot top-performing salespeople.
-- The structured pivot table provided an intuitive breakdown of revenue distribution.
-- The visualizations simplified the communication of insights to senior management.
+- Total Sales: $7,286,551
+- Sales by Region:
+  - East: $1,805,833.60
+  - North: $1,945,833.20
+  - South: $1,812,496.30
+  - West: $1,722,387.90
+   
+
+
 
 ## 💡 Recommendations
 - Focus on underperforming regions by analyzing sales trends and setting realistic targets.
 - Adjust commission rates based on performance to incentivize higher sales.
-- Implement similar structured reporting templates for future sales analysis.
 
-## 📑 Additional Features
-- **Copy of All Sales**: Reformatted data as a structured table (Sales_Data) with auto-calculated totals.
-- **New Staff Sheet**: Processed and formatted new employee data using text functions.
-- **Cover Page**: Designed with hyperlinks for seamless navigation across sheets.
 
 This project demonstrates my ability to manage, analyze, and present data effectively using Excel, reinforcing my skills in data-driven decision-making. 🚀
